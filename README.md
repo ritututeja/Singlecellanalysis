@@ -1,7 +1,7 @@
 # Notes scRNAseq
 
 # Resources
-scRNAseq workshop fall 2019- https://crazyhottommy.github.io/scRNA-seq-workshop-Fall-2019/index.html \
+scRNAseq workshop fall 2019- https://crazyhottommy.github.io/scRNA-seq-workshop-Fall-2019/index.html <br\>
 Data Camp scRNAseq- https://www.datacamp.com/courses/single-cell-rna-seq-workflows-in-r
 
 
@@ -9,7 +9,7 @@ Data Camp scRNAseq- https://www.datacamp.com/courses/single-cell-rna-seq-workflo
 
 
 # Tools
-Seurat \
+Seurat (br\)
 
 
 
