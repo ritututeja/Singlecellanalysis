@@ -1,4 +1,4 @@
-# Singlecellanalysis
+# scRNAseq-notes
 
 # Tools
 Seurat
