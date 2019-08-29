@@ -1,6 +1,6 @@
 
 
-# Single Cell Analysis Notes
+# Single-cell analysis notes
 
 
 ## Introduction
@@ -8,12 +8,13 @@
 
 
 ## Common challenges
+One of the major difficulty in single-cell analysis is the initial isolation and culture of a single cell.
+Another challenge lies in processing power as you are analyzing individual cell in a population. This requires analysis from all aspects to understand the complexity of a cell population.
 
 
 
 
-
-## Advantages and applications of single cell analysis
+## Advantages and applications of single-cell analysis
 
 
 
