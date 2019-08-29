@@ -4,13 +4,14 @@
 
 
 ## Introduction
-
+Current techological advances in single-cell analysis allows researchers to prepare sequenceing libraries from small amont of samples to profile individal cells.
 
 
 ## Common challenges
-One of the major difficulty in single-cell analysis is the initial isolation and culture of a single cell.
+Data generation- One of the major difficulty in single-cell analysis is the initial isolation and culture of a single cell.
 Another challenge lies in processing power as you are analyzing individual cell in a population. This requires analysis from all aspects to understand the complexity of a cell population.
 
+Analysis- Single-cell data generally has low library sizes, high noise level and a large fraction of drop out events, i.e., failure to observe some genes although they are indeed expressed in a given cell, which makes it diffcilut to analyze compared to HTS RNA-seq data. 
 
 
 
