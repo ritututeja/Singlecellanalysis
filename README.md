@@ -30,7 +30,7 @@ Data Camp scRNAseq- https://www.datacamp.com/courses/single-cell-rna-seq-workflo
 
 # Tools
 Seurat \
-ScOrange
+ScOrange \
 Monocle
 
 
