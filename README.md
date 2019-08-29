@@ -4,7 +4,7 @@
 
 
 ## Introduction
-Current techological advances in single-cell analysis allows researchers to prepare sequenceing libraries from small amont of samples to profile individal cells.
+Current techological advances has made it possible to profile individal cells by allowing researchers to prepare sequenceing libraries from small amont of samples. Having data at single-cell resoultion is required to address questions that can not be addressed with high-throughput sequencing data, such as different groups of cells shows different levels of variability. 
 
 
 ## Common challenges
