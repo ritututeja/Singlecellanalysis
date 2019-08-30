@@ -31,7 +31,9 @@ Data Camp scRNAseq- https://www.datacamp.com/courses/single-cell-rna-seq-workflo
 # Tools
 Seurat \
 ScOrange \
-Monocle
+Monocle \
+Scater \
+Scanpy
 
 
 # scRNAseq plant datasets
