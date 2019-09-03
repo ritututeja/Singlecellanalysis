@@ -25,9 +25,6 @@ Harvard FAS scRNAseq workshop fall 2019- https://crazyhottommy.github.io/scRNA-s
 Data Camp scRNAseq- https://www.datacamp.com/courses/single-cell-rna-seq-workflows-in-r
 
 
-
-
-
 # Tools
 Seurat \
 ScOrange \
@@ -46,6 +43,7 @@ https://www.biorxiv.org/content/10.1101/739011v1.abstract?%3Fcollection= \
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5866720/ \
 https://singlecell.biolab.si/ \
 http://www.plantphysiol.org/content/179/4/1444 \
-Bias, robustness and scalability in differential expression analysis of single-cell RNA-seq data [https://www.biorxiv.org/content/10.1101/143289v1]
-Guidelines for scRNA-seq
-https://www.nature.com/articles/s41596-018-0073-y
+Bias, robustness and scalability in differential expression analysis of single-cell RNA-seq data [https://www.biorxiv.org/content/10.1101/143289v1] \
+Guidelines for the experimental design of scRNA-seq studies
+https://www.nature.com/articles/s41596-018-0073-y \
+
