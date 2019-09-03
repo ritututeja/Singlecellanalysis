@@ -47,3 +47,5 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5866720/ \
 https://singlecell.biolab.si/ \
 http://www.plantphysiol.org/content/179/4/1444 \
 Bias, robustness and scalability in differential expression analysis of single-cell RNA-seq data [https://www.biorxiv.org/content/10.1101/143289v1]
+Guidelines for scRNA-seq
+https://www.nature.com/articles/s41596-018-0073-y
