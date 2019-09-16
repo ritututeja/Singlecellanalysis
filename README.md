@@ -23,6 +23,7 @@ Analysis pitfalls- Single-cell data generally has low library sizes, high noise 
 # Resources
 Harvard FAS scRNAseq workshop fall 2019- https://crazyhottommy.github.io/scRNA-seq-workshop-Fall-2019/index.html \
 Data Camp scRNAseq- https://www.datacamp.com/courses/single-cell-rna-seq-workflows-in-r
+simplesinglecell- https://bioconductor.org/packages/release/workflows/html/simpleSingleCell.html
 
 
 # Tools
@@ -33,6 +34,7 @@ Scater \
 Scanpy
 
 Welcome Genome Campus list of tools- https://www.singlecellbioinformatics.org/tools/?
+Bioconductor packages for single-cell- http://bioconductor.org/packages/release/BiocViews.html#___SingleCell
 
 # scRNAseq plant datasets
 http://www.plantphysiol.org/content/179/4/1444 
