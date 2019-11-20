@@ -23,8 +23,9 @@ Gene drop-out reasons:- The drops-outs could be biological when a gene is cimply
 
 # Resources
 Harvard FAS scRNAseq workshop fall 2019- https://crazyhottommy.github.io/scRNA-seq-workshop-Fall-2019/index.html \
-Data Camp scRNAseq- https://www.datacamp.com/courses/single-cell-rna-seq-workflows-in-r
-simplesinglecell- https://bioconductor.org/packages/release/workflows/html/simpleSingleCell.html
+Data Camp scRNAseq- https://www.datacamp.com/courses/single-cell-rna-seq-workflows-in-r \
+simplesinglecell- https://bioconductor.org/packages/release/workflows/html/simpleSingleCell.html \
+Hemberg lab single cell- https://github.com/hemberg-lab/scRNA.seq.course
 
 
 # Tools
