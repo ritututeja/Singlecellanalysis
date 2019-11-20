@@ -13,7 +13,7 @@ Another challenge lies in processing power as you are analyzing individual cell 
 
 Analysis pitfalls- Single-cell data generally has low library sizes, high noise level and a large fraction of gene drop out events, i.e., failure to observe some genes although they are indeed expressed in a given cell, which makes it diffcilut to analyze compared to HTS RNA-seq data. 
 
-Gene drop-out reasons:- could be due to technical difficulties in caputring the gene or may be a gene is not expressed during a particular stage of a cell cycle.
+Gene drop-out reasons:- The drops-outs could be biological when a gene is cimply not expressed in a cell. For example, genes involved in the divison of a cell are not expressed at each step of the cell cycle. The zeros can also be technical when the sequencing machine fails to sequence reads from a gene and a cell.
 
 
 ## Advantages and applications of single-cell analysis
