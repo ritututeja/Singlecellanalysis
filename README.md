@@ -51,4 +51,7 @@ Bias, robustness and scalability in differential expression analysis of single-c
 Guidelines for the experimental design of scRNA-seq studies
 https://www.nature.com/articles/s41596-018-0073-y \
 Exponential scaling of single-cell rna-seq in the past decade
-https://www.nature.com/articles/nprot.2017.149
+https://www.nature.com/articles/nprot.2017.149 \
+Bioconductor workflow for single-cell RNA sequencing: Normalization, dimensionality reduction, clustering, and lineage inference https://f1000research.com/articles/6-1158 \
+
+
