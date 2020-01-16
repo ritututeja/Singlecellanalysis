@@ -53,6 +53,8 @@ https://www.nature.com/articles/s41596-018-0073-y \
 Exponential scaling of single-cell rna-seq in the past decade
 https://www.nature.com/articles/nprot.2017.149 \
 Bioconductor workflow for single-cell RNA sequencing: Normalization, dimensionality reduction, clustering, and lineage inference https://f1000research.com/articles/6-1158 \
-A step-by-step workflow for low-level analysis of single-cell RNA-seq data with Bioconductor https://f1000research.com/articles/5-2122/v2
-Singlecellexperiment class https://bioconductor.org/packages/release/bioc/vignettes/SingleCellExperiment/inst/doc/intro.html
+A step-by-step workflow for low-level analysis of single-cell RNA-seq data with Bioconductor https://f1000research.com/articles/5-2122/v2 \
+Singlecellexperiment class https://bioconductor.org/packages/release/bioc/vignettes/SingleCellExperiment/inst/doc/intro.html \
+Batch effects and the effective design of single-cell gene expression studies https://www.nature.com/articles/srep39921 \
+
 
